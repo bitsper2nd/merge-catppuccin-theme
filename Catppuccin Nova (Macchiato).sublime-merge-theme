@@ -1,0 +1,9 @@
+{
+    "name": "Catppuccin Nova (Macchiato)",
+    "extends": "Catppuccin Nova.hidden-theme",
+    "variables": {
+            "commit_annotation_bg": "var(cyan)",
+            "file_ann_bg": "var(cyan)"
+    },
+    "rules": []
+}

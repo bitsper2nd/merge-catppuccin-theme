@@ -1,0 +1,12 @@
+{
+    "name": "Catppuccin Nova (Mocha)",
+    "extends": "Catppuccin Nova.hidden-theme",
+    "variables": {
+        "commit_annotation_bg": "var(cyan)",
+        "commit_edge_0": "var(yellow)",
+        "commit_edge_4": "var(blue)",
+        "file_ann_bg": "var(cyan)"
+
+    },
+    "rules": []
+}

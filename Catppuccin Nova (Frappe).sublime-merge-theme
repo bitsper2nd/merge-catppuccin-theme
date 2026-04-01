@@ -1,0 +1,11 @@
+{
+    "name": "Catppuccin Nova (Frappe)",
+    "extends": "Catppuccin Nova.hidden-theme",
+    "variables": {
+        "commit_annotation_bg": "var(cyan)",
+        "commit_edge_0": "var(red)",
+        "commit_edge_6": "var(blue)",
+        "file_ann_bg": "var(cyan)"
+    },
+    "rules": []
+}

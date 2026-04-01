@@ -1,0 +1,11 @@
+{
+    "name": "Catppuccin Nova (Latte)",
+    "extends": "Catppuccin Nova Lustre.hidden-theme",
+    "variables": {
+        "commit_annotation_bg": "var(cyan)",
+        "commit_edge_0": "var(green)",
+        "commit_edge_5": "var(blue)",
+        "file_ann_bg": "var(cyan)"
+    },
+    "rules": []
+}
